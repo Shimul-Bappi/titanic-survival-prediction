@@ -1,0 +1,14 @@
+# Kaggle competition data (do not redistribute; download from Kaggle)
+data/*
+!data/.gitkeep
+# Generated files
+outputs/*
+!outputs/.gitkeep
+*.png
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
